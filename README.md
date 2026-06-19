@@ -7,9 +7,6 @@
 
 </div>
 
----
----
-
 ## 🛠️ Tech Stack
 
 **AI / ML**
@@ -56,12 +53,6 @@
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Drizkia&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## 🤝 Connect
 
 <div align="center">
@@ -70,4 +61,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dimas-rizki-ardiansyah)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dimasrizkia477@gmail.com)
 
+</div>
+
+<div align="center">
+<sub><i>"The best code is the one that solves real problems — elegantly."</i></sub>
 </div>
