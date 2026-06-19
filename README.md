@@ -10,21 +10,6 @@
 
 ---
 
-## 🧠 About Me
-
-```python
-class Dimas:
-    name       = "Dimas Rizki"
-    username   = "Drizkia"
-    role       = ["AI Engineer", "Fullstack Web Developer"]
-    location   = "Yogyakarta, Indonesia 🇮🇩"
-    passion    = "Building intelligent systems that actually work"
-    currently  = "Exploring LLMs, Fuzzy Logic & Modern Web Stacks"
-    fun_fact   = "HAHAHA Coding So Fun... HaHaHa..... hahaha..... ...."
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
@@ -96,34 +81,14 @@ class Dimas:
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 **LLM Comparison SPK** | Decision support system for evaluating LLMs using Fuzzy Tsukamoto | `Python` `Streamlit` `Fuzzy Logic` |
-| 🍵 **Matcha** | Full-stack app with FastAPI backend and React frontend | `FastAPI` `React` `Vite` `Railway` |
-| 📱 **HelpNow** | AI-integrated mobile social aid platform | `Mobile` `AI` `UML Design` |
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Drizkia-181717?style=for-the-badge&logo=github)](https://github.com/Drizkia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dimas-rizki-ardiansyah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dimas-rizki-ardiansyah)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasrizkia477@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
-
-*"The best code is the one that solves real problems — elegantly."*
-
-⭐ **Feel free to star repos that helped you!**
-
-</div>
